@@ -1,4 +1,4 @@
-import ChildComponent from './ChildComponent';
+import ChildComponent from './Childcomponent';
 
 function ParentComponent() {
   const message = "Hello from Parent!";
